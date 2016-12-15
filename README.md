@@ -1,4 +1,6 @@
 # JavaFX_1
 Simple javaFX Application for mave
 
-Как добавлять в pom зависимост для javaFX
+How to add dependencies in pom.xml for javaFX project
+
+Как добавлять в pom зависимости для javaFX
